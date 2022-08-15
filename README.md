@@ -7,4 +7,4 @@
     objc_setAssociatedObject(self, kHitScale, @(hitScale), OBJC_ASSOCIATION_RETAIN_NONATOMIC);
 }
 ```
-#通过将UIButton与Scale关联，设置UIButton点击范围
+通过将UIButton与Scale关联，设置UIButton点击范围
